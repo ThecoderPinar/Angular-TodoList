@@ -1,0 +1,36 @@
+
+/* Global stiller */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 20px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  /* Todo List stilleri */
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .list-group-item input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  /* Note Recorder stilleri */
+  /* Buraya not kaydetmek ve ses kaydetmek için özel stiller ekleyebilirsiniz */
+  

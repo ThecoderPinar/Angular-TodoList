@@ -1,70 +1,27 @@
-# Angular Todo List
+# TodoList
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
-Angular Todo List is a simple and user-friendly todo list application built with Angular. This application allows users to add tasks, mark them as completed, and delete tasks.
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Demo
+## Code scaffolding
 
-Check out the live demo [here](https://example.com).
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Features
+## Build
 
-- Add tasks
-- Mark tasks as completed
-- Delete tasks
-- Categorize tasks
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Installation
+## Running unit tests
 
-```shell
-# Clone the repository:
-git clone https://github.com/your-username/angular-todo-list.git
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-# Change into the repo directory:
-cd angular-todo-list
+## Running end-to-end tests
 
-# Install dependencies:
-npm install
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-# Start the application:
-ng serve
-```
-## Usage
+## Further help
 
-- Enter a task in the input field and press Enter or click the "Add" button to add it to the list.
-- Click the checkbox next to a task to mark it as completed.
-- Click the "X" button to delete a task.
-
-## Screenshots
-
-## Home Page![Home](https://github.com/ThecoderPinar/Angular-TodoList/assets/107423523/1f244c35-9690-4429-b822-be0bfa7c846b)
-
-## Add Task![Add](https://github.com/ThecoderPinar/Angular-TodoList/assets/107423523/c2e09333-33b7-4e8d-beb8-c027b74d98c2)
-
-## Delete![Delete](https://github.com/ThecoderPinar/Angular-TodoList/assets/107423523/202f1366-1a8c-4c07-9e78-f716303ff89c)
-
-
-## Contributing
-
-Contributions are welcome! To contribute to Angular Todo List, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to your branch.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or inquiries, please contact us at [email protected].
-
-## Acknowledgements
-
-- [Angular](https://angular.io)
-- [Tailwind CSS](https://tailwindcss.com)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
